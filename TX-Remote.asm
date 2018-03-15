@@ -2,13 +2,13 @@
 ;*
 ;*	TX-Remote.asm
 ;*
-;*	Enter the description of the program here
+;*	TX (Controller)
 ;*
-;*	This is the TRANSMIT skeleton file for Lab 8 of ECE 375
+;*	Lab 8 of ECE 375
 ;*
 ;***********************************************************
 ;*
-;*	 Author: Jimwel Aguinaldo and Blake Hudson
+;*	 Author: Jimwel Aguinaldo
 ;*	   Date: 3/5/18
 ;*
 ;***********************************************************
