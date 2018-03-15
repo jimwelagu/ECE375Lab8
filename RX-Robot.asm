@@ -2,13 +2,13 @@
 ;*
 ;*	RX-Robot.asm
 ;*
-;*	Enter the description of the program here
+;*	Receiver (Robot)
 ;*
-;*	This is the RECEIVE skeleton file for Lab 8 of ECE 375
+;*	Lab 8 of ECE 375
 ;*
 ;***********************************************************
 ;*
-;*	 Author: Jimwel Aguinaldo and Blake Hudson
+;*	 Author: Jimwel Aguinaldo
 ;*	   Date: 3/16/18
 ;*
 ;***********************************************************
